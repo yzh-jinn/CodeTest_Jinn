@@ -1,0 +1,13 @@
+  1 set nu
+  2 set ts=4
+  3 set expandtab
+  4 set nohls
+  5 set ruler
+  6 syntax on
+  7 imap <C-f> <Right>
+  8 imap <C-p> <Up>
+  9 imap <C-n> <Down>
+ 10 imap <C-b> <Left>
+ 11 imap <C-i> <Esc>
+ 12 imap <C-a> <Home>
+ 13 imap <C-e> <End>
